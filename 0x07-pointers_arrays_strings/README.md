@@ -1,1 +1,1 @@
-So more practice on pointers, arrays and strings.
+Some more practice tasks on the use of pointers, arrays and strings in c programming.
