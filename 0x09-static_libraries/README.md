@@ -13,4 +13,4 @@ easy command for creating static library liball.a from the .c files in the direc
 * ```ranlib liball.a```
 
 use ```ls *.c``` to see all files ending with ```.c```.
-use ```ar -t staticlibraryname.a``` to view the objects files in it.
+use ```ar -t staticlibraryname.a``` to view the objects files in it. In this case ```ar -t liball.a``` was used to check all the files in the static library liball.a.
