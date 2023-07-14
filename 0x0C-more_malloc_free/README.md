@@ -1,4 +1,5 @@
 More practice tasks on malloc
+How to free up allocated spaces
 
 - 0-malloc_checked.c is a function that allocates memory using malloc.
 - 1-string_nconcat.c is a function that concatenates two strings.
